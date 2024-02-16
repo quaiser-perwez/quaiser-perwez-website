@@ -1,0 +1,51 @@
+.cv{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+}
+.container{
+margin: 50px;
+padding: 5px;
+border: 3px solid rgb(13, 236, 69);
+
+}
+.name{
+    margin: 20px;
+    color: rgb(253, 15, 15);
+    font-family: sans-serif;
+}
+.im{
+     text-align: right;
+    margin: 10px;
+    
+   
+}
+img{
+    border-radius: 20px;
+    border: 2px solid black;
+
+}
+.line{
+    height: 2px;
+    background-color: black;
+}
+h2{
+    text-decoration: dashed;
+    text-decoration: underline;
+    font-size: 40px;
+}
+p{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pass{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.per{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*{
+    background-color: aquamarine;
+}
